@@ -2,7 +2,7 @@
 using namespace std;
 
 int unique_paths(int n, int m){
-    int dp[m+1][n+1]; // Extra row and column buffer to handle overflow
+    vector<vector<int>> dp(m+1, vector<int>(n+1)); // Extra row and column buffer to handle overflow
     for(int i=0; i<=m; i++) dp[i][0] = 0; // Set overflow row and column to zero
     for(int i=0; i<=n; i++) dp[0][i] = 0;
     dp[1][1] = 1; // Base Case: If there's only one cell, only 1 path exists
