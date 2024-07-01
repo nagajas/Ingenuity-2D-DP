@@ -16,6 +16,7 @@ int unique_paths(int n, int m){
 }
 
 int main(){
+    int m, n;
     scanf("%d %d",&m, &n);
     printf("%d\n", unique_paths(m,n));
     return 0;
