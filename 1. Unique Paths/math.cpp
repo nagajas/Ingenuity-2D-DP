@@ -3,9 +3,10 @@ using namespace std;
 
 int nCr(int n, int r)
 {
-    int p = 1;
+    long long p = 1;
     for(int i = 1; i <= r; i++){
-        p *= (n-r+i) / i;
+        p *= (n-r+i);
+        p /= i;
     }
     return int(p);
 }
