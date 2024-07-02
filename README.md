@@ -14,7 +14,7 @@ This repository contains code files and resources related to 2D Dynamic Programm
     2. Python
         - [Tabulation](./1.%20Unique%20Paths/bottom_up.py)
         - [Tabulation with Space Optimization](./1.%20Unique%20Paths/bottom_up_space.py)
-        - [Combinatorics](./1.%20Unique%20Paths/math.py)
+        - [Combinatorics](./1.%20Unique%20Paths/math_sol.py)
 
 2. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 
