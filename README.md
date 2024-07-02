@@ -38,7 +38,6 @@ This repository contains code files and resources related to 2D Dynamic Programm
     2. Python
         - [Tabulation with Space Optimization](./3.%20Book%20Shop/bottom_up_space.py)
 
-Solutions are provided in C++. Bottom-Up or Tabulation approach is used for all the problems.
 
 ## Resources
 - [Slides](https://docs.google.com/presentation/d/1RwMLsQ6OAE5KANBT24xlfu3ESec2DJBhsL3epi0Nkh0/edit?usp=sharing)
