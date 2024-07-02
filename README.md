@@ -3,17 +3,40 @@
 This repository contains code files and resources related to 2D Dynamic Programming workshop conducted by Ingenuity at IIT Bhilai.
 
 ## Problems Discussed
-1. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+1. ### [Unique Paths](https://leetcode.com/problems/unique-paths/)
 
     Starting from the top-left corner of an `m x n` grid, how many unique paths are there to the bottom-right corner if you can only move either down or right at any point in time?
+
+    ### Solutions:
+    1. C++
+        - [Tabulation](./1.%20Unique%20Paths/bottom_up.cpp)
+        - [Combinatorics](./1%20Unique%20Paths/math.cpp)
+    2. Python
+        - [Tabulation](./1.%20Unique%20Paths/bottom_up.py)
+        - [Tabulation with Space Optimization](./1.%20Unique%20Paths/bottom_up_space.py)
+        - [Combinatorics](./1.%20Unique%20Paths/math.py)
 
 2. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 
     Same as the previous problem, but now there are obstacles in the grid. You cannot move through obstacles.
 
+    ### Solutions:
+    1. C++
+        - [Tabulation](./2.%20Unique%20Paths%20with%20Obstacles/bottom_up.cpp)
+    2. Python
+        - [Tabulation](./2.%20Unique%20Paths%20with%20Obstacles/bottom_up.py)
+
+
 3. [Book Shop](https://cses.fi/problemset/task/1158)
 
     You are in a book shop which sells `n` books, and you have `x` coins. Given the prices and pages of each book, find the maximum number of pages you can buy with the given amount of coins. 
+
+    ### Solutions:
+    1. C++
+        - [Tabulation](./3.%20Book%20Shop/bottom_up.cpp)
+        - [Tabulation with Space Optimization](./3.%20Book%20Shop/bottom_up_space.cpp)
+    2. Python
+        - [Tabulation with Space Optimization](./3.%20Book%20Shop/bottom_up_space.py)
 
 Solutions are provided in C++. Bottom-Up or Tabulation approach is used for all the problems.
 
