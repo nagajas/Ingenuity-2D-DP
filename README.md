@@ -38,6 +38,13 @@ This repository contains code files and resources related to 2D Dynamic Programm
     2. Python
         - [Tabulation with Space Optimization](./3.%20Book%20Shop/bottom_up_space.py)
 
+4. ### [Super Sale](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1071)
+
+    A shop sells `n` items, each with a weight and a price. You are given the weight of each item and the price of each item. There are `g` people who want to buy items. Each person can carry own maximum weight of `mw`. Find the maximum price that can be obtained by selling items to these people.
+
+    ### Solutions:
+    1. C++
+        - [Tabulation](./4.%20Super%20Sale/bottom_up.cpp)
 
 ## Resources
 - [Slides](https://docs.google.com/presentation/d/1RwMLsQ6OAE5KANBT24xlfu3ESec2DJBhsL3epi0Nkh0/edit?usp=sharing)
