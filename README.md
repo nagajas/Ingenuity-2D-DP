@@ -50,7 +50,9 @@ This repository contains code files and resources related to 2D Dynamic Programm
     To submit this solution visit [here](https://vjudge.net/problem/UVA-10130).
  
 ## Resources
-- [Slides](https://docs.google.com/presentation/d/1RwMLsQ6OAE5KANBT24xlfu3ESec2DJBhsL3epi0Nkh0/edit?usp=sharing)
+- ### Slides
+  [PPT](https://docs.google.com/presentation/d/1RwMLsQ6OAE5KANBT24xlfu3ESec2DJBhsL3epi0Nkh0/edit?usp=sharing)
+  [PDF](./2D-DP[1].pdf)
 - ### Video Resources
   1. [Dynamic Programming Playlist | Interview Questions | Recursion | Tabulation | Striver | C++ | Java | DSA | Placements](https://youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
   2. [Mastering Dynamic Programming - How to solve any interview problem (Part 1)](https://youtu.be/Hdr64lKQ3e4)
