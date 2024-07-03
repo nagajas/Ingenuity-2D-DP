@@ -46,6 +46,9 @@ This repository contains code files and resources related to 2D Dynamic Programm
     1. C++
         - [Tabulation](./4.%20Super%20Sale/bottom_up.cpp)
 
+    ### Note:
+    To submit this solution visit [here](https://vjudge.net/problem/UVA-10130).
+ 
 ## Resources
 - [Slides](https://docs.google.com/presentation/d/1RwMLsQ6OAE5KANBT24xlfu3ESec2DJBhsL3epi0Nkh0/edit?usp=sharing)
 - ### Video Resources
